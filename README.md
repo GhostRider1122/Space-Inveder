@@ -1,6 +1,6 @@
 ## My First Game - A Space Invader Game
 
-![Spaceship dodging enemy fire](assets/icons/gameplay_screenshot.png)  This is a simple space invader game developed using the Pygame library. 
+![Spaceship dodging enemy fire](assets/icons/spaceship.png)  This is a simple space invader game developed using the Pygame library. 
 
 ### How to Play
 
